@@ -19,7 +19,6 @@ Bug bounty hunter. Responsible disclosure.
 
 - Burp Suite 2026
 - Kali Linux
-- Chromium (Burp built-in browser)
 
 ## Platforms
 

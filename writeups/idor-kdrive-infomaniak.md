@@ -44,4 +44,4 @@ The kDrive API endpoint `/api/3/drive/{drive_id}/files/last_modified` does not v
 1. Check the target architecture before committing time
 2. You need data in Account A to prove impact
 3. One good finding > five vague ones
-4. Don't waste trial reports on unconfirmed findings
+4. Don't waste trial reports on unconfirmed findings   
